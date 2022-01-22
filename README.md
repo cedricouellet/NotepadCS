@@ -39,7 +39,6 @@ All features that come with the builtin Windows Notepad, but with:
     - Instagram
     - Twitter
     - (TODO) Include Twitch
-    - (TODO) Include PornHub? Nah, not kid-friendly enough
 - Preferences
   - Change font
   - Colors
