@@ -19,7 +19,7 @@ This is because I made the great decision of using WinForms since I'm lazy and d
 All features that come with the builtin Windows Notepad, but with:
 
 - Editing Timer (see how long you've been editing a file)
-  - Tells you to take a break when it sees you have no life
+  - Warns you to take a break when it sees you have spent over an hour editing a single file.
 - Insert
   - Line Under Selection
   - Code Templates
