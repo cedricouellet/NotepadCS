@@ -12,7 +12,7 @@ Made for fun, and to learn.
 ## Support
 *Notepad--* will only work on Windows.
 
-This is because I made the great decision of using WinForms since I'm lazy and don't want to learn WPF.
+Why? Because WinForms can be a lot of fun to use, and because most people use Windows.
 
 ## Features
 
